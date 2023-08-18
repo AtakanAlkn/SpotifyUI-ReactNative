@@ -8,6 +8,7 @@ import SignUp2 from './screens/SignUp/SignUp2';
 import SignUp3 from './screens/SignUp/SignUp3';
 import SignUp4 from './screens/SignUp/SignUp4';
 import ChooseArtist from './screens/Choose/ChooseArtist';
+import ChoosePodcasts from './screens/Choose/ChoosePodcasts';
 
 const App = () => {
   const Stack = createNativeStackNavigator();
@@ -21,6 +22,7 @@ const App = () => {
         <Stack.Screen name="SignUp3" component={SignUp3} />
         <Stack.Screen name="SignUp4" component={SignUp4} />
         <Stack.Screen name="ChooseArtist" component={ChooseArtist} />
+        <Stack.Screen name="ChoosePodcasts" component={ChoosePodcasts} />
       </Stack.Navigator>
     </NavigationContainer>
   );
