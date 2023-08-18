@@ -1,10 +1,12 @@
 import React from 'react';
-import {View, Text, Image, TouchableOpacity, Dimensions} from 'react-native';
+import {View, Text, Image, TouchableOpacity} from 'react-native';
 import styles from './StartStyle';
 import CustomButton from './components/CustomButton/';
 
-const Start = () => {
-  const windowWidth = Dimensions.get('window').width;
+const Start = props => {
+  const onSignUp = () => {
+    props.navigation.navigate('SignUp1');
+  };
   return (
     <View style={styles.container}>
       <View style={styles.content}>
@@ -18,23 +20,14 @@ const Start = () => {
             <Text style={styles.text}>Free on Spotify.</Text>
           </View>
           <View style={styles.buttonContent}>
-            <TouchableOpacity
-              style={{
-                justifyContent: 'center',
-                alignItems: 'center',
-                borderColor: 'white',
-                borderWidth: 1,
-                borderRadius: 30,
-                width: windowWidth / 1.2,
-                paddingVertical: 10,
-                margin: 5,
-              }}>
-              <Text>Sign up free</Text>
+            <TouchableOpacity style={styles.button} onPress={onSignUp}>
+              <Text style={styles.text2}>Sign up free</Text>
             </TouchableOpacity>
             <CustomButton title="Continue with Google" logo="google.png" />
-            <CustomButton title="Continue with Facebook" logo="google.png" />
-            <CustomButton title="Continue with Apple" logo="google.png" />
+            <CustomButton title="Continue with Facebook" logo="facebook.png" />
+            <CustomButton title="Continue with Apple" logo="apple.png" />
           </View>
+          <Text style={styles.text3}>Log in</Text>
         </View>
       </View>
     </View>
