@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Ed Sheeran, Big Sean, Juice WRLD, Post Malone",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb89dccc0a0b3d818c8d5fb711"
+  },
+  {
+    "id": 2,
+    "name": "Mitski, Tame Impala, Glass Animals, Charli XCX",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23"
+  },
+  {
+    "id": 3,
+    "name": "Adele, Beyoncé, Taylor Swift, Lady Gaga",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17"
+  },
+  {
+    "id": 4,
+    "name": "Drake, Kendrick Lamar, Travis Scott, Kanye West",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022"
+  }
+]

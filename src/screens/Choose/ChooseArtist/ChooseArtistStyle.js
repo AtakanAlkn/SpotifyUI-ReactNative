@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
   input: {
     backgroundColor: 'white',
     marginVertical: 15,
-    borderRadius: 10,
+    borderRadius: 5,
     flex: 1,
     paddingLeft: 40,
   },

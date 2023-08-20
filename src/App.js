@@ -9,6 +9,7 @@ import SignUp3 from './screens/SignUp/SignUp3';
 import SignUp4 from './screens/SignUp/SignUp4';
 import ChooseArtist from './screens/Choose/ChooseArtist';
 import ChoosePodcasts from './screens/Choose/ChoosePodcasts';
+import TabBar from './screens/TabBar/TabBar';
 
 const App = () => {
   const Stack = createNativeStackNavigator();
@@ -23,6 +24,11 @@ const App = () => {
         <Stack.Screen name="SignUp4" component={SignUp4} />
         <Stack.Screen name="ChooseArtist" component={ChooseArtist} />
         <Stack.Screen name="ChoosePodcasts" component={ChoosePodcasts} />
+        <Stack.Screen
+          name="TabBar"
+          component={TabBar}
+          options={{headerShown: false}}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );

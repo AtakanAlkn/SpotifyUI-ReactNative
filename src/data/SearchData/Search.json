@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Pop",
+    "backgroundColor": "#FF6B6B"
+  },
+  {
+    "id": 2,
+    "categoryName": "Rock",
+    "backgroundColor": "#74B9FF"
+  },
+  {
+    "id": 3,
+    "categoryName": "Hip-Hop",
+    "backgroundColor": "#55E6C1"
+  },
+  {
+    "id": 4,
+    "categoryName": "Electronic",
+    "backgroundColor": "#FFD700"
+  },
+  {
+    "id": 5,
+    "categoryName": "R&B",
+    "backgroundColor": "#FF5733"
+  },
+  {
+    "id": 6,
+    "categoryName": "Country",
+    "backgroundColor": "#F39C12"
+  },
+  {
+    "id": 7,
+    "categoryName": "Jazz",
+    "backgroundColor": "#9B59B6"
+  },
+  {
+    "id": 8,
+    "categoryName": "Classical",
+    "backgroundColor": "#27AE60"
+  },
+  {
+    "id": 9,
+    "categoryName": "Reggae",
+    "backgroundColor": "#3498DB"
+  },
+  {
+    "id": 10,
+    "categoryName": "Blues",
+    "backgroundColor": "#8E44AD"
+  },
+  {
+    "id": 11,
+    "categoryName": "Metal",
+    "backgroundColor": "#E74C3C"
+  },
+  {
+    "id": 12,
+    "categoryName": "Folk",
+    "backgroundColor": "#1ABC9C"
+  },
+  {
+    "id": 13,
+    "categoryName": "Indie",
+    "backgroundColor": "#D35400"
+  },
+  {
+    "id": 14,
+    "categoryName": "Latin",
+    "backgroundColor": "#C0392B"
+  },
+  {
+    "id": 15,
+    "categoryName": "Reggaeton",
+    "backgroundColor": "#3498DB"
+  },
+  {
+    "id": 16,
+    "categoryName": "Punk",
+    "backgroundColor": "#E74C3C"
+  }
+]

@@ -46,6 +46,7 @@ const ChooseArtist = props => {
       </View>
       <View style={{alignItems: 'center', flex: 1}}>
         <FlatList
+          showsVerticalScrollIndicator={false}
           data={Artist}
           keyExtractor={item => item.id.toString()}
           renderItem={renderArtistCard}

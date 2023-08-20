@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Rotten Mango",
+    "image": "https://i.scdn.co/image/ab6765630000ba8a099a357ed0a2a39424f2903d"
+  },
+  {
+    "id": 2,
+    "name": "Last Podcast On The Left",
+    "image": "https://i.scdn.co/image/ab6765630000ba8ae37212330575352589fc5430"
+  },
+  {
+    "id": 3,
+    "name": "The Joe Rogan Experience",
+    "image": "https://i.scdn.co/image/9af79fd06e34dea3cd27c4e1cd6ec7343ce20af4"
+  },
+  {
+    "id": 4,
+    "name": "Gee Thanks",
+    "image": "https://i.scdn.co/image/ab6765630000ba8a8af3eefb12877c229d46c8a1"
+  },
+  {
+    "id": 5,
+    "name": "Distractible",
+    "image": "https://i.scdn.co/image/ab6765630000ba8a57106b1adc44d7f864c5d5b2"
+  },
+  {
+    "id": 6,
+    "name": "My Brother, My Brother and Me",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9e690225ad4445530612ccc9"
+  },
+  {
+    "id": 7,
+    "name": "Call Her Daddy",
+    "image": "https://i.scdn.co/image/ab6765630000ba8a427947b0cfb0cab540af54e8"
+  },
+  {
+    "id": 8,
+    "name": "Stuff You Should Know",
+    "image": "https://i.scdn.co/image/ab67656300005f1f863cc2d69ef7958af5cca4b5"
+  },
+  {
+    "id": 9,
+    "name": "Sunday Scaries by Headspace",
+    "image": "https://i.scdn.co/image/ab6765630000ba8a855f755ce63ef1af34d713f0"
+  },
+  {
+    "id": 10,
+    "name": "Conspiracy Theories",
+    "image": "https://i.scdn.co/image/ab6765630000ba8a659649ee24019724c5a8b2a1"
+  },
+  {
+    "id": 11,
+    "name": "Armchair Expert with Dax Shepard",
+    "image": "https://i.scdn.co/image/ab6765630000ba8a29376bb009f501cd0585d5ef"
+  },
+  {
+    "id": 12,
+    "name": "The Daily",
+    "image": "https://i.scdn.co/image/1b5af843be11feb6c563e0d95f5fe0dad659b757"
+  }
+]
