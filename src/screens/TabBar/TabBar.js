@@ -4,6 +4,7 @@ import {Image} from 'react-native';
 import Home from './Home/Home';
 import Search from './Search/Search';
 import Library from './Library/Library';
+import DetailsStack from './Search/components/Screens/DetailsStack';
 
 const Tab = createBottomTabNavigator();
 
@@ -36,7 +37,7 @@ function TabBar() {
         },
       })}>
       <Tab.Screen name="Home" component={Home} />
-      <Tab.Screen name="Search" component={Search} />
+      <Tab.Screen name="Search" component={DetailsStack} />
       <Tab.Screen name="Library" component={Library} />
     </Tab.Navigator>
   );

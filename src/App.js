@@ -10,6 +10,10 @@ import SignUp4 from './screens/SignUp/SignUp4';
 import ChooseArtist from './screens/Choose/ChooseArtist';
 import ChoosePodcasts from './screens/Choose/ChoosePodcasts';
 import TabBar from './screens/TabBar/TabBar';
+import InputScreen from './screens/TabBar/Search/components/Screens/InputScreen/InputScreen';
+import DetailsStack from './screens/TabBar/Search/components/Screens/DetailsStack';
+import AlbumControl from './screens/TabBar/Search/components/Screens/AlbumControl/AlbumControl';
+import SongShare from './screens/TabBar/Search/components/Screens/SongShare/SongShare';
 
 const App = () => {
   const Stack = createNativeStackNavigator();
@@ -29,6 +33,9 @@ const App = () => {
           component={TabBar}
           options={{headerShown: false}}
         />
+        <Stack.Screen name="Input" component={InputScreen} />
+        <Stack.Screen name="AlbumControl" component={AlbumControl} />
+        <Stack.Screen name="SongShare" component={SongShare} />
       </Stack.Navigator>
     </NavigationContainer>
   );

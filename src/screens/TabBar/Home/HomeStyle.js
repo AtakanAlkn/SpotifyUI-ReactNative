@@ -6,13 +6,14 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#1B1A1C',
-    paddingVertical: 10,
+    paddingVertical: 20,
   },
   header: {
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
     marginHorizontal: 15,
+    marginBottom: 15,
   },
   innerHeader: {},
   innerHeaderText: {

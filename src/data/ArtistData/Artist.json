@@ -2,91 +2,109 @@
   {
     "id": 1,
     "name": "Billie Eilish",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf"
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+    "title": "Artist"
   },
   {
     "id": 2,
     "name": "Ariana Grande",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952"
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952",
+    "title": "Artist"
   },
   {
     "id": 3,
     "name": "Lana Del Rey",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261"
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+    "title": "Artist"
   },
   {
     "id": 4,
     "name": "Drake",
-    "image": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5"
+    "image": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
+    "title": "Artist"
   },
   {
     "id": 5,
     "name": "Rihanna",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789"
+    "image": "https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789",
+    "title": "Artist"
   },
   {
     "id": 6,
     "name": "Ed Sheeran",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb9e690225ad4445530612ccc9"
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9e690225ad4445530612ccc9",
+    "title": "Artist"
   },
   {
     "id": 7,
     "name": "Taylor Swift",
-    "image": "https://i.scdn.co/image/ab67706f00000002b0c066c63921e8d43068982c"
+    "image": "https://i.scdn.co/image/ab67706f00000002b0c066c63921e8d43068982c",
+    "title": "Artist"
   },
   {
     "id": 8,
     "name": "Beyoncé",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715"
+    "image": "https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715",
+    "title": "Artist"
   },
   {
     "id": 9,
     "name": "Justin Bieber",
-    "image": "https://i.scdn.co/image/ab67616d00001e02a01fed49fe3a84a9919cef29"
+    "image": "https://i.scdn.co/image/ab67616d00001e02a01fed49fe3a84a9919cef29",
+    "title": "Artist"
   },
   {
     "id": 10,
     "name": "The Weeknd",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36"
+    "image": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+    "title": "Artist"
   },
   {
     "id": 11,
     "name": "Katy Perry",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6"
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6",
+    "title": "Artist"
   },
   {
     "id": 12,
     "name": "Post Malone",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1"
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1",
+    "title": "Artist"
   },
   {
     "id": 13,
     "name": "Bruno Mars",
-    "image": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd"
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd",
+    "title": "Artist"
   },
   {
     "id": 14,
     "name": "Sia",
-    "image": "https://i.scdn.co/image/ab67706c0000da84d7addedfa948bc890dd91c7f"
+    "image": "https://i.scdn.co/image/ab67706c0000da84d7addedfa948bc890dd91c7f",
+    "title": "Artist"
   },
   {
     "id": 15,
     "name": "Lady Gaga",
-    "image": "https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81"
+    "image": "https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81",
+    "title": "Artist"
   },
   {
     "id": 16,
     "name": "Travis Scott",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71"
+    "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+    "title": "Artist"
   },
   {
     "id": 17,
     "name": "Coldplay",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3"
+    "image": "https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3",
+    "title": "Artist"
   },
   {
     "id": 18,
     "name": "Kanye West",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fd61ea11e50ba0b7eade9466"
+    "image": "https://i.scdn.co/image/ab67616d0000b273fd61ea11e50ba0b7eade9466",
+    "title": "Artist"
   }
 ]

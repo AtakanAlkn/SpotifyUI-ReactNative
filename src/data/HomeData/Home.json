@@ -3,36 +3,42 @@
     "id": 1,
     "name": "1(Remastered)",
     "image": "https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
-    "circle": true
+    "circle": true,
+    "title": "Playlist"
   },
   {
     "id": 2,
     "name": "Lana Del Rey",
     "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-    "circle": false
+    "circle": false,
+    "title": "Artist"
   },
   {
     "id": 3,
     "name": "Marvin Gaye",
     "image": "https://i.scdn.co/image/f69e669cd95c6008c6220fd060982ff9516ed636",
-    "circle": true
+    "circle": true,
+    "title": "Artist"
   },
   {
     "id": 4,
     "name": "FKA twigs",
     "image": "https://i.scdn.co/image/ab6761610000e5eb092b58b0c0743cdeb3044a95",
-    "circle": false
+    "circle": false,
+    "title": "Artist"
   },
   {
     "id": 5,
     "name": "Ed Sheeran",
     "image": "https://i.scdn.co/image/ab6761610000e5eb9e690225ad4445530612ccc9",
-    "circle": false
+    "circle": false,
+    "title": "Artist"
   },
   {
     "id": 6,
     "name": "Rihanna",
     "image": "https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789",
-    "circle": true
+    "circle": true,
+    "title": "Artist"
   }
 ]

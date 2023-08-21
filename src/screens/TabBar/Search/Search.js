@@ -11,14 +11,14 @@ import styles from './SearchStyle';
 import SearchData from '../../../data/SearchData/Search.json';
 import SearchCard from './components/SearchCard/SearchCard';
 
-const Search = () => {
+const Search = props => {
   const renderSearchCard = ({item}) => {
     return <SearchCard item={item} />;
   };
   const numColumns = 2;
 
   const handleTextInputPress = () => {
-    console.log('denemes');
+    props.navigation.navigate('Input');
   };
 
   return (
@@ -32,18 +32,18 @@ const Search = () => {
           />
         </View>
       </View>
-      <View style={styles.inputBox}>
+      <TouchableOpacity style={styles.inputBox} onPress={handleTextInputPress}>
         <Image
           style={styles.searchIcon}
           source={require('../../../assets/images/search.png')}
         />
-
         <TextInput
           style={styles.input}
           placeholder="Artist, songs, or podcasts"
           placeholderTextColor="black"
+          editable={false}
         />
-      </View>
+      </TouchableOpacity>
       <Text style={styles.text1}>Browse all</Text>
       <FlatList
         showsVerticalScrollIndicator={false}

@@ -6,6 +6,7 @@ import {
   TouchableOpacity,
   FlatList,
   ScrollView,
+  StatusBar,
 } from 'react-native';
 import styles from './HomeStyle';
 import HomeData from '../../../data/HomeData/Home.json';
