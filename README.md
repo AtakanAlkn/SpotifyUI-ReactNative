@@ -7,9 +7,9 @@ Welcome to the SpotifyUI Clone project! This repository showcases a visual clone
 
 ## Project Preview
 
-![Home Screen](images/h1.jpg)
-![Library Screen](images/h2.jpg)
-![Search Screen](images/h3.jpg)
+![Home Screen](images/h1.jpeg)
+![Library Screen](images/h2.jpeg)
+![Search Screen](images/h3.jpeg)
 
 ## Features
 
@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
    
 2. **Navigate to the project directory:**
    
-cd SpotifyUI-ReactNative
+   cd SpotifyUI-ReactNative
 
 
 2. **Install dependencies:**
