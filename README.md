@@ -13,6 +13,12 @@ Welcome to the SpotifyUI Clone project! This repository showcases a visual clone
   <img src="images/h3.jpeg" alt="Search Screen" width="300">
 </div>
 
+## Outdated Design Notice
+
+Please note that the design showcased here is a bit outdated and might not reflect the most current state of the project's design. The project has undergone changes since then to improve its visual appeal and functionality.
+
+You can still access the original design on [Figma](https://www.figma.com/community/file/1052832340031141040)
+
 
 ## Features
 
