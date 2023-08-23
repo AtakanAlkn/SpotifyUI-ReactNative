@@ -7,9 +7,12 @@ Welcome to the SpotifyUI Clone project! This repository showcases a visual clone
 
 ## Project Preview
 
-![Home Screen](images/h1.jpeg)
-![Library Screen](images/h2.jpeg)
-![Search Screen](images/h3.jpeg)
+<div style="display: flex; flex-direction: row;">
+  <img src="images/h1.jpeg" alt="Home Screen" width="300" style="margin-right: 20px;">
+  <img src="images/h2.jpeg" alt="Library Screen" width="300" style="margin-right: 20px;">
+  <img src="images/h3.jpeg" alt="Search Screen" width="300">
+</div>
+
 
 ## Features
 
