@@ -78,8 +78,13 @@ Make sure you have Xcode (for iOS development) or Android Studio (for Android de
 Clear the npm or yarn cache and node_modules directory, then run the installation step again.
 If the problem persists, please open an issue on our GitHub repository. We'll be glad to assist you!
 
-**License**
-This project is licensed under the **MIT License.**
+## License
+This repository is licensed under the [MIT License](LICENSE).
+
+## Contact
+If you have any questions, suggestions, or just want to connect, you can reach me at:
+- Email: alkan.atakan@outlook.com
+- LinkedIn: [Atakan Alkan](https://www.linkedin.com/in/atakanalkn/)
 
 
 
