@@ -1,7 +1,7 @@
 # SpotifyUI Clone Project
 
 
-## Overview
+## Overview 
 
 Welcome to the SpotifyUI Clone project! This repository showcases a visual clone of the Spotify mobile app's user interface. The main focus of this project is to demonstrate a visually appealing design, while also implementing basic functionality for certain interactive elements.
 
